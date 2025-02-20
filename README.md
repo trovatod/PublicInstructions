@@ -1,5 +1,5 @@
 ## Setup: Install and Setup VS Code and Python
-*   Install VS Code [here](https://https://code.visualstudio.com/docs/setup/setup-overview)
+*   Install VS Code [here](https://code.visualstudio.com/docs/setup/setup-overview)
 *   Be sure to setup a folder for you open through VS Code that will house all your future dev projects and python imports. Going forward we will call this the base dev folder.
 *   Within VS Code install the [python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 
